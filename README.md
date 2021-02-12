@@ -25,15 +25,14 @@ A Junior Data Scientist, Writer, Poet and an advocate for Women in Technology
 
 - 🌱 I’m learning anything and everything to guide me on my Data Science journey. I am currently building my skills in Pyhton and SQL.
 
-
+<br />
 
 ### Languages and Tools:
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-
-
+- Python
+-SQL
+-Microsoft Azure Synapse Analytics
+-Microsoft Azure Databricks 
 
 ### 📕 Blog Posts
 
