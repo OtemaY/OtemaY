@@ -17,8 +17,9 @@
 
 A Junior Data Scientist, Writer, Poet and an advocate for Women in Technology
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://otemayirenkyi3.wixsite.com/otemay)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/TimTimma_)
+Website(https://otemayirenkyi3.wixsite.com/otemay)
+
+Twitter Follow(https://twitter.com/TimTimma_)
 
 
 ---
@@ -30,9 +31,9 @@ A Junior Data Scientist, Writer, Poet and an advocate for Women in Technology
 ### Languages and Tools:
 
 - Python
--SQL
--Microsoft Azure Synapse Analytics
--Microsoft Azure Databricks 
+- SQL
+- Microsoft Azure Synapse Analytics
+- Microsoft Azure Databricks 
 
 ### 📕 Blog Posts
 
