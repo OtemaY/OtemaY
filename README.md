@@ -24,7 +24,7 @@ Twitter Follow(https://twitter.com/TimTimma_)
 
 ---
 
-- 🌱 I’m learning anything and everything to guide me on my Data Science journey. I am currently building my skills in Pyhton and SQL.
+- 🌱 I’m learning anything and everything to guide me on my Data Science journey. I am currently building my skills in Python and SQL.
 
 <br />
 
