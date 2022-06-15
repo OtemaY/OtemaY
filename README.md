@@ -19,7 +19,7 @@ A Data Scientist, Writer, Poet and an advocate for Women in Technology
 
 Website(https://otemayirenkyi3.wixsite.com/otemay)
 
-Twitter Follow(https://twitter.com/Tim_Timma_)
+Twitter Follow(https://twitter.com/Tim_Timma_ )
 
 
 ---
