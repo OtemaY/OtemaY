@@ -15,7 +15,7 @@
 
 ## I'm Otema aka Tims / Timmy
 
-A Junior Data Scientist, Writer, Poet and an advocate for Women in Technology
+A Data Scientist, Writer, Poet and an advocate for Women in Technology
 
 Website(https://otemayirenkyi3.wixsite.com/otemay)
 
