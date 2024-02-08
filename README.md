@@ -24,7 +24,7 @@ Twitter Follow([https://twitter.com/Tim_Timma_](https://twitter.com/Tim_timma_) 
 
 ---
 
-- 🌱 Data Scientist. Skilled in Python and SQL.
+- 🌱 Data Scientist.
 
 <br />
 
