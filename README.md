@@ -32,6 +32,9 @@ Twitter Follow([https://twitter.com/Tim_Timma_](https://twitter.com/Tim_timma_) 
 
 - Python
 - SQL
+- MATLAB
+- Gynasium API
+- Django Framework
 - Microsoft Azure Synapse Analytics
 - Microsoft Azure Databricks 
 
