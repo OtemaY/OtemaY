@@ -33,7 +33,7 @@ Twitter Follow([https://twitter.com/Tim_Timma_](https://twitter.com/Tim_timma_) 
 - Python
 - SQL
 
-### Software libraries Tools :
+### Software libraries and Tools :
 - OpenCV
 - ImageIO
 - PyFeat
