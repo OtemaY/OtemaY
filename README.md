@@ -34,13 +34,19 @@ Twitter Follow([https://twitter.com/Tim_Timma_](https://twitter.com/Tim_timma_) 
 - SQL
 
 ### Software libraries Tools :
-- OpenCV; ImageIO; PyFeat; Scikit-Learn; Pytorch; Furhat SDK; - MATLAB
+- OpenCV
+- ImageIO
+- PyFeat
+- Scikit-Learn
+- Pytorch
+- Furhat SDK
 - Gynasium API
 - Django Framework
 
 ### Platforms: 
 - Microsoft Azure Synapse Analytics
 - Microsoft Azure Databricks
+- MATLAB
 
 ### 📕 Blog Posts
 
