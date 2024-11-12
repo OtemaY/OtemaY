@@ -28,15 +28,19 @@ Twitter Follow([https://twitter.com/Tim_Timma_](https://twitter.com/Tim_timma_) 
 
 <br />
 
-### Languages and Tools:
+### Languages :
 
 - Python
 - SQL
-- MATLAB
+
+### Software libraries Tools :
+- OpenCV; ImageIO; PyFeat; Scikit-Learn; Pytorch; Furhat SDK; - MATLAB
 - Gynasium API
 - Django Framework
+
+### Platforms: 
 - Microsoft Azure Synapse Analytics
-- Microsoft Azure Databricks 
+- Microsoft Azure Databricks
 
 ### 📕 Blog Posts
 
