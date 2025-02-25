@@ -24,7 +24,6 @@ Twitter Follow([https://twitter.com/Tim_Timma_](https://twitter.com/Tim_timma_) 
 
 ---
 
-- 🌱 Data Scientist.
 
 <br />
 
@@ -42,6 +41,12 @@ Twitter Follow([https://twitter.com/Tim_Timma_](https://twitter.com/Tim_timma_) 
 - Furhat SDK
 - Gynasium API
 - Django Framework
+- Tesseract OCR
+- LLaMA (Meta)
+- DeepSeek
+- RAG (Retrieval-Augmented Generation)- (LangChain)
+- Text Embeddings & Vector Search (FAISS)
+  
 
 ### Platforms: 
 - Microsoft Azure Synapse Analytics
