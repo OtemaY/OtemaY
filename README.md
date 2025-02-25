@@ -17,7 +17,7 @@
 
 A Data Scientist, Writer, Poet, Music Producer, Co-Founder of [BecauseSheCan](https://becauseshecan.tech) and an advocate for Women in Technology. 
 
-Website(https://otemayirenkyi3.wixsite.com/otemay)
+[Website]https://otemayirenkyi3.wixsite.com/otemay
 
 Twitter Follow([https://twitter.com/Tim_Timma_](https://twitter.com/Tim_timma_) )
 
