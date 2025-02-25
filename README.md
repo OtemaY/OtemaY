@@ -19,8 +19,9 @@ A Data Scientist, Writer, Poet, Music Producer, Co-Founder of [BecauseSheCan](ht
 
 [Website](https://otemayirenkyi3.wixsite.com/otemay)
 
-Twitter Follow([https://twitter.com/Tim_Timma_](https://twitter.com/Tim_timma_) )
+[Twitter](https://twitter.com/Tim_timma_)
 
+[LinkedIn](https://www.linkedin.com/in/otemayirenkyi/)
 
 ---
 
@@ -52,6 +53,9 @@ Twitter Follow([https://twitter.com/Tim_Timma_](https://twitter.com/Tim_timma_) 
 - Microsoft Azure Synapse Analytics
 - Microsoft Azure Databricks
 - MATLAB
+- Visual Studio Code
+- Jupyter Notebook
+  
 
 ### 📕 Blog Posts
 
