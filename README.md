@@ -15,7 +15,7 @@
 
 ## I'm Otema aka Tims / Timmy
 
-A Data Scientist, Writer, Poet, Music Producer, Co-Founder of BecauseSheCan([https://becauseshecan.tech] and an advocate for Women in Technology. 
+A Data Scientist, Writer, Poet, Music Producer, Co-Founder of BecauseSheCan([https://becauseshecan.tech](BecauseSheCan)) and an advocate for Women in Technology. 
 
 Website(https://otemayirenkyi3.wixsite.com/otemay)
 
